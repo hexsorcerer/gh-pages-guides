@@ -1,2 +1,3 @@
-.Software
-include::software:partial$nav.adoc[Software]
+* include::software:index.adoc[Software]
+** include::software:javascript/index.adoc[Javascript]
+*** include::software:javascript/nvm.adoc[nvm]
