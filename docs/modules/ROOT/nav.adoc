@@ -1,5 +1,2 @@
-* xref:index.adoc[]
-+
---
-include::software/nav.adoc[]
---
+.Navigation
+include::software:partial$nav.adoc[Software]
