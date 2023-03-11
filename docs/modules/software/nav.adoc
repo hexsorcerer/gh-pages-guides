@@ -1,2 +1,2 @@
 * xref:app.adoc[]
-* xref:nvm.adoc[]
+* xref:javascript/nvm.adoc[]
