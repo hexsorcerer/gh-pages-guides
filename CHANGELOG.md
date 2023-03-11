@@ -1,3 +1,10 @@
+## [0.4.2](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.1...v0.4.2) (2023-03-11)
+
+
+### Bug Fixes
+
+* try again to add software subitem to nav setup ([f78a5a4](https://github.com/hexsorcerer/gh-pages-guides/commit/f78a5a42ebed3e51f8f83429f48ee2f35512900f))
+
 ## [0.4.1](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.0...v0.4.1) (2023-03-11)
 
 
