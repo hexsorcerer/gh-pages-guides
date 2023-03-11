@@ -1,3 +1,10 @@
+## [0.4.3](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.2...v0.4.3) (2023-03-11)
+
+
+### Bug Fixes
+
+* try direct references to docs in navigation list ([ebc286a](https://github.com/hexsorcerer/gh-pages-guides/commit/ebc286a907d547fde2aac4307a7fc0de75bdc54a))
+
 ## [0.4.2](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.1...v0.4.2) (2023-03-11)
 
 
