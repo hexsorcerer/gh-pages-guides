@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.3.0...v0.3.1) (2023-03-11)
+
+
+### Bug Fixes
+
+* add register nav back to component configuration ([9ff9c13](https://github.com/hexsorcerer/gh-pages-guides/commit/9ff9c13d8ab5ad497477b4214966629d9917a2ab))
+
 # [0.3.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.2.1...v0.3.0) (2023-03-11)
 
 
