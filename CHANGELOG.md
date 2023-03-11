@@ -1,3 +1,10 @@
+## [0.4.1](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.0...v0.4.1) (2023-03-11)
+
+
+### Bug Fixes
+
+* try to add software nav item again ([a774ecf](https://github.com/hexsorcerer/gh-pages-guides/commit/a774ecf8de9f108cb6d1cfcbf42092dc0dd624eb))
+
 # [0.4.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.3.1...v0.4.0) (2023-03-11)
 
 
