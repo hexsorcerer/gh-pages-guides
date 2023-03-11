@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.2.0...v0.2.1) (2023-03-11)
+
+
+### Bug Fixes
+
+* fix nav link for nvm doc ([4f2d3bd](https://github.com/hexsorcerer/gh-pages-guides/commit/4f2d3bd563c86f13a695c669212fec41d68ff551))
+
 # [0.2.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.1.1...v0.2.0) (2023-03-11)
 
 
