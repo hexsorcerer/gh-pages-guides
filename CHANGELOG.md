@@ -1,3 +1,10 @@
+## [0.4.4](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.3...v0.4.4) (2023-03-11)
+
+
+### Bug Fixes
+
+* replace nav include with xref ([7c1739e](https://github.com/hexsorcerer/gh-pages-guides/commit/7c1739ecb5bc3a027761e736479f16cbe19c0b1d))
+
 ## [0.4.3](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.2...v0.4.3) (2023-03-11)
 
 
