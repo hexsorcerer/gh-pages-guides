@@ -1,2 +1,2 @@
-.Navigation
+.Software
 include::software:partial$nav.adoc[Software]
