@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.3.1...v0.4.0) (2023-03-11)
+
+
+### Features
+
+* add software nav as nested list ([cbcea46](https://github.com/hexsorcerer/gh-pages-guides/commit/cbcea46915ff0a18ee5d59a0f12c202df4c92b90))
+
 ## [0.3.1](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.3.0...v0.3.1) (2023-03-11)
 
 
