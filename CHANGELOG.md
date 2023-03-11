@@ -1,3 +1,10 @@
+## [0.4.5](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.4...v0.4.5) (2023-03-11)
+
+
+### Bug Fixes
+
+* fix header in software index ([45659d4](https://github.com/hexsorcerer/gh-pages-guides/commit/45659d4b163165e234ab0cc5f9f92ceaf4c91917))
+
 ## [0.4.4](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.3...v0.4.4) (2023-03-11)
 
 
