@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.2.1...v0.3.0) (2023-03-11)
+
+
+### Features
+
+* reorganize nav ([a69e0a9](https://github.com/hexsorcerer/gh-pages-guides/commit/a69e0a90b8700bf297ce829421a099c6894d6895))
+
 ## [0.2.1](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.2.0...v0.2.1) (2023-03-11)
 
 
