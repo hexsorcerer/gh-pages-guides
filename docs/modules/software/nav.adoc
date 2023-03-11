@@ -1,2 +1,1 @@
-* xref:app.adoc[]
 * xref:javascript/nvm.adoc[]
