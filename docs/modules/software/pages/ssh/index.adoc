@@ -1,0 +1,21 @@
+= SSH
+
+== Use your existing SSH keys in WSL2
+Run these commands:
+----
+cp -r /mnt/c/Users/<username>/.ssh ~/.ssh
+----
+----
+chmod 600 ~/.ssh/id_rsa
+----
+----
+sudo apt install keychain
+----
+
+Add this line to your .bashrc:
+----
+eval ``keychain --eval --agents ssh id_rsa
+----
+
+From https://devblogs.microsoft.com/commandline/sharing-ssh-keys-between-windows-and-wsl-2/[Sharing SSH keys between Windows and WSL 2]
+

@@ -1,3 +1,8 @@
 * xref:software:asciidoc/index.adoc[Asciidoc]
+* xref:software:antora/index.adoc[Antora]
+* xref:software:github/index.adoc[GitHub]
+* xref:software:docker/index.adoc[Docker]
+* xref:software:elasticstack/index.adoc[Elastic Stack]
 * xref:software:javascript/index.adoc[Javascript]
 ** xref:software:javascript/nvm.adoc[nvm]
+* xref:software:ssh/index.adoc[SSH]

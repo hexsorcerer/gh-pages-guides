@@ -1,0 +1,7 @@
+= GitHub
+
+== Token Permissions
+https://docs.github.com/en/rest/overview/permissions-required-for-fine-grained-personal-access-tokens?apiVersion=2022-11-28[Permissions required for fine-grained personal access tokens]
+
+A reference to look up what permissions are needed on a token depending on what
+API you call with it.

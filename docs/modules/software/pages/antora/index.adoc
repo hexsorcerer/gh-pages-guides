@@ -1,0 +1,10 @@
+= Antora
+
+== GitLab
+https://gitlab.com/antora[Antora]
+
+== Examples
+https://gitlab.com/antora/antora.org/-/issues/20[Showcase Antora-based sites and highlight ones that have a custom UI]
+
+Links to many dozens of other projects that are using Antora, great to see how
+others are using it.

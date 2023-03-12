@@ -1,0 +1,16 @@
+= Docker
+
+== WSL2 backend on Windows
+https://docs.docker.com/desktop/windows/wsl/[Docker Desktop WSL 2 backend on Windows]
+
+Shows how to configure Docker Desktop for Windows with WSL2.
+
+== Configure permissions
+You'll need to do this post-install, even on WSL2.
+----
+sudo groupadd docker
+----
+----
+sudo usermod -aG docker $USER
+----
+From https://docs.docker.com/engine/install/linux-postinstall/[Linux post-installation steps for Docker Engine]
