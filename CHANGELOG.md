@@ -1,3 +1,10 @@
+# [0.6.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.5.0...v0.6.0) (2023-03-12)
+
+
+### Features
+
+* add some notes on asciidoc ([7049ad4](https://github.com/hexsorcerer/gh-pages-guides/commit/7049ad4b34e7355e58a68a0a71b3ebaafe0b724a))
+
 # [0.5.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.6...v0.5.0) (2023-03-12)
 
 

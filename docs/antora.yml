@@ -1,6 +1,6 @@
 name: guides
 title: Guides
-version: 0.5.0
+version: 0.6.0
 start_page: index.adoc
 asciidoc:
   attributes:
