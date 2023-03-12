@@ -1,3 +1,10 @@
+## [0.4.6](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.5...v0.4.6) (2023-03-12)
+
+
+### Bug Fixes
+
+* add module qualifier to nested nav list items ([0d5c390](https://github.com/hexsorcerer/gh-pages-guides/commit/0d5c390a590e567a26ecf932abd90dd67c11032c))
+
 ## [0.4.5](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.4...v0.4.5) (2023-03-11)
 
 
