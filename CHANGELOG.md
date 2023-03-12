@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.6...v0.5.0) (2023-03-12)
+
+
+### Features
+
+* add nvm quickstart guide ([16ccf2a](https://github.com/hexsorcerer/gh-pages-guides/commit/16ccf2a8ee7638abb0e91a79a39e46480c354fc5))
+
 ## [0.4.6](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.4.5...v0.4.6) (2023-03-12)
 
 
