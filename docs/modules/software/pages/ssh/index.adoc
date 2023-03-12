@@ -14,8 +14,10 @@ sudo apt install keychain
 
 Add this line to your .bashrc:
 ----
-eval ``keychain --eval --agents ssh id_rsa
+eval `keychain --eval --agents ssh --inherit any id_rsa`
 ----
 
 From https://devblogs.microsoft.com/commandline/sharing-ssh-keys-between-windows-and-wsl-2/[Sharing SSH keys between Windows and WSL 2]
+and https://www.funtoo.org/Funtoo:Keychain[Funtoo Keychain Project] which showed
+the correct command for your .bashrc file.
 
