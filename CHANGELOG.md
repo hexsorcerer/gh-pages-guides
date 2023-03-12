@@ -1,3 +1,10 @@
+## [0.7.1](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.7.0...v0.7.1) (2023-03-12)
+
+
+### Bug Fixes
+
+* fix bashrc command for keychain ([26a6aef](https://github.com/hexsorcerer/gh-pages-guides/commit/26a6aef0e62a3b81757dec3e23b9f94fd2903a82))
+
 # [0.7.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.6.0...v0.7.0) (2023-03-12)
 
 
