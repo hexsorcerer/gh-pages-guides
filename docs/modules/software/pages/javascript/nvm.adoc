@@ -1,3 +1,33 @@
 = nvm
 
-Under construction
+Here's a quickstart guide for nvm.
+
+== Install nvm
+[source,bash]
+----
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+----
+
+== Install latest LTS
+[source,bash]
+----
+nvm install 'lts/*' --reinstall-packages-from=current
+----
+
+== Show current version
+[source,bash]
+----
+nvm current
+----
+
+== Switch versions
+[source,bash,subs="verbatim,quotes"]
+----
+nvm use *_<major_version>_*
+----
+
+=== References
+
+https://github.com/nvm-sh/nvm/blob/master/README.md[nvm]
+
+https://www.linode.com/docs/guides/how-to-install-use-node-version-manager-nvm/[Installing and Using NVM (Node Version Manager)]
