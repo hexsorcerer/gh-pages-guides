@@ -1,2 +1,2 @@
-* xref:javascript/index.adoc[]
-** xref:javascript/nvm.adoc[]
+* xref:software:javascript/index.adoc[Javascript]
+** xref:software:javascript/nvm.adoc[nvm]
