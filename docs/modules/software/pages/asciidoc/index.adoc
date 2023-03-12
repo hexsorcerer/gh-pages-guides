@@ -1,0 +1,37 @@
+= Asciidoc
+
+== Asciidoc Writers Guide
+https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide] is the go-to for all your Asciidoc syntax needs.
+
+== Using text formatting in code blocks
+Sometimes I want to use bold or italics inside of a code block to represent
+something that you can't copy/paste. For example:
+[source,bash,subs="+quotes"]
+----
+nvm use *_<major_version>_*
+----
+
+Since the user has to say which major version they want, I'd like to draw
+attention to that using an approach similar to what I see in many books.
+
+To accomplish this, Asciidoc provides the ability to customize the substitutions
+applied in a block.
+
+We use a listing block for source code, so add this just above the block:
+----
+[subs="+quotes"]
+----
+
+This will allow you to use the standard text formatting in the block:
+----
+nvm use *_<major_version>_*
+----
+
+which will render as:
+[source,bash,subs="+quotes"]
+----
+nvm use *_<major_version>_*
+----
+
+== References
+https://docs.asciidoctor.org/asciidoc/latest/subs/apply-subs-to-blocks/[Customize the Substitutions Applied to Blocks]
