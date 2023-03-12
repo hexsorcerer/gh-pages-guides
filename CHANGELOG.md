@@ -1,3 +1,10 @@
+# [0.7.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.6.0...v0.7.0) (2023-03-12)
+
+
+### Features
+
+* add several new sections from my open browser tabs ([5e0eb14](https://github.com/hexsorcerer/gh-pages-guides/commit/5e0eb149ad54d940ce2e638bb4146c44a8fef080))
+
 # [0.6.0](https://github.com/hexsorcerer/gh-pages-guides/compare/v0.5.0...v0.6.0) (2023-03-12)
 
 
