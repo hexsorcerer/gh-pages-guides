@@ -1,3 +1,5 @@
 * xref:software:index.adoc[Software]
-** xref:software:javascript/index.adoc[Javascript]
-*** xref:software:javascript/nvm.adoc[nvm]
++
+--
+include::software:partial$nav.adoc[]
+--
